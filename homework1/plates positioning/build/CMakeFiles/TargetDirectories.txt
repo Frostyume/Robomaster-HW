@@ -1,0 +1,3 @@
+/home/frostyume/桌面/CV/homework1/plates positioning/build/CMakeFiles/rebuild_cache.dir
+/home/frostyume/桌面/CV/homework1/plates positioning/build/CMakeFiles/edit_cache.dir
+/home/frostyume/桌面/CV/homework1/plates positioning/build/CMakeFiles/ocv.dir

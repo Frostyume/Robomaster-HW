@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/frostyume/桌面/CV/homework1/apple recognize/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/ocv.dir/main.cpp.o -c \"/home/frostyume/桌面/CV/homework1/apple recognize/main.cpp\"",
+  "file": "/home/frostyume/桌面/CV/homework1/apple recognize/main.cpp"
+}
+]
