@@ -43,7 +43,7 @@ int main() {
     // 绘制苹果轮廓并框出来
     Rect boundingBox = boundingRect(contours[id_max]);
     rectangle(image, boundingBox, Scalar(0, 255, 0), 2);
-    drawContours(image, contours, id_max, Scalar(0, 0, 255), 3);
+    drawContours(image, contours, id_max, Scalar(255, 0, 0), 3);
     // 显示结果
     imshow("Apple", image);
     // imshow("Apple", mask);
