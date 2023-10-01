@@ -12,7 +12,7 @@ int main() {
     cvtColor(image, hsvImage, COLOR_BGR2HSV);
 
     // 定义红色和橙色的颜色范围（在HSV空间中）
-    Scalar lowerOrange(11, 153, 102);
+    Scalar lowerOrange(11, 172, 99);
     Scalar upperOrange(25, 255, 255);
     Scalar lowerRed1(156, 100, 100);
     Scalar upperRed1(180, 255, 255);
