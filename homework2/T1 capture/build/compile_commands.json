@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/frostyume/桌面/CV/homework2/capture/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/ocv.dir/main.cpp.o -c /home/frostyume/桌面/CV/homework2/capture/main.cpp",
+  "file": "/home/frostyume/桌面/CV/homework2/capture/main.cpp"
+}
+]
