@@ -1,0 +1,3 @@
+/home/frostyume/桌面/CV/homework3/T1 Pnp/build/CMakeFiles/rebuild_cache.dir
+/home/frostyume/桌面/CV/homework3/T1 Pnp/build/CMakeFiles/edit_cache.dir
+/home/frostyume/桌面/CV/homework3/T1 Pnp/build/CMakeFiles/ocv.dir

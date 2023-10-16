@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/frostyume/桌面/CV/homework3/T1 Pnp/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3 -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/ocv.dir/main.cpp.o -c \"/home/frostyume/桌面/CV/homework3/T1 Pnp/main.cpp\"",
+  "file": "/home/frostyume/桌面/CV/homework3/T1 Pnp/main.cpp"
+}
+]
