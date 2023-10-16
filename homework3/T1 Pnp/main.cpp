@@ -28,9 +28,11 @@ int main() {
     reader["F"] >> f_mat;
     reader["C"] >> c_mat;
 
+    // 调用Pnp
     Mat r_vec, t_vec;
     solvePnP(PW_BIG, armor_corners, f_mat, c_mat, r_vec, t_vec);
 
+    // 输出结果
     Quaterniond q(-0.0816168, 0.994363, -0.0676645, -0.00122528);
     Matrix3d q_matrix = q.matrix();
     Vector3d t;
